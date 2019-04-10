@@ -1,5 +1,8 @@
 
+
 html, body {
+
+  background-image: url("bg1.jpg");
   padding: 0 0 0 0;
   margin: 0;
   font-family: 'helvetica', 'arial', 'sans';
@@ -15,7 +18,7 @@ a {
 }
 
 .header {
-  background: #fff;
+
   color: #000;
   height: 500px;
   padding: 30px 30px 30px;
@@ -36,12 +39,14 @@ a {
 }
 
 .assignment a {
-    color: #000;
-    text-decoration: none;
+
+  color: #000;
+  text-decoration: none;
 }
 
 .assignment a:hover {
-  background: #F06;
+  /*background: #F06; */
+
   color: #F06;
   text-decoration: none;
 }
@@ -62,8 +67,7 @@ a {
 }
 
 .widebody a:hover {
-  background: #F06;
+  /*background: #F06;*/
   color: #FFF;
   text-decoration: none;
 }
-

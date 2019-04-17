@@ -5,11 +5,11 @@ html, body {
   background-image: url("bg1.jpg");
   padding: 0 0 0 0;
   margin: 0;
-  font-family: 'helvetica', 'arial', 'sans';
+  font-family: futura-pt, sans-serif;
 }
 
 h1,h2,h3,h4 {
-  font-family: 'helvetica', 'arial', 'sans';
+  font-family: futura-pt, sans-serif;
   }
 
 
@@ -18,35 +18,47 @@ a {
 }
 
 .header {
-
+  font-family: futura-pt, sans-serif;
+  font-style: bold;
+  font-weight: 300;
   color: #000;
   height: 500px;
   padding: 30px 30px 30px;
 }
 
 .header h1 {
+  font-family: futura-pt, sans-serif;
+  font-style: bold;
+  font-weight: 300;
   font-size: 50px;
   }
 
 .assignment {
+
   font-size: 12px;
   line-height: 24px;
-  font-family: 'helvetica', 'arial', 'sans';
-  padding: 20px 20px 20px 30px;
+  font-family: futura-pt, sans-serif;
+  font-style: bold;
+  font-weight: 300;
+  padding: 40px 40px 40px 50px;
   width: 250px;
   height: 350px;
   float: left;
 }
 
 .assignment a {
-
+  font-family: futura-pt, sans-serif;
+  font-style: bold;
+  font-weight: 300;
   color: #000;
   text-decoration: none;
 }
 
 .assignment a:hover {
   /*background: #F06; */
-
+  font-family: futura-pt, sans-serif;
+  font-style: bold;
+  font-weight: 300;
   color: #F06;
   text-decoration: none;
 }

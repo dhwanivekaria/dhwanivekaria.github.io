@@ -85,11 +85,11 @@ a {
 }
 div.a
 {
-  width: 350px;
+  width: auto;
   transform: rotate(90deg);
 }
 div.b
 {
-  width: 350px;
+width: auto;
   transform: rotate(180deg);
 }
